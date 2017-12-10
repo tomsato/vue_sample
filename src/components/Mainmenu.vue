@@ -17,8 +17,8 @@ https://jp.vuejs.org/v2/guide/single-file-components.html
     <p>メインメニュー</p>
     <ul>
       <li><a href="/">/topへのリンク</a></li>
-      <li><a href="/contents1">/contents1へのリンク</a></li>
-      <li><a href="/contents2">/contents2へのリンク</a></li>
+      <li><a href="/#/contents1">/contents1へのリンク</a></li>
+      <li><a href="/#/contents2">/contents2へのリンク</a></li>
     </ul>
   </div>
 </template>
